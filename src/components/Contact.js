@@ -1,4 +1,6 @@
 import React from 'react'
+import Phone from '../assets/phone.jpeg'
+import Email from '../assets/gmail.png'
 
 const Contact = () => {
   return (
@@ -10,8 +12,28 @@ const Contact = () => {
                 </p>
 
                 <p className='text-gray-300 py-4 text-2xl'>
-                    Submit the form below or send me an email: oscar303data@gmail.com
+                    Submit the form below to send me an email or call to: 
+                    
+                <i class="fa fa-phone">
+                    <div style={{display: 'flex', alignItems:'center'}}>
+                    <img src={Email} width='35px' alt="" />
+                        <span style={{paddingLeft: '15px'}}>
+                        oscar303data@gmail.com
+                        </span> 
+                    </div>
+                </i>
+
+                <i class="fa fa-phone">
+                    <div style={{display: 'flex', alignItems:'center'}}>
+                    <img src={Phone} width='35px' alt="" />
+                         <span style={{paddingLeft: '15px'}}>
+                            720-649-2594
+                        </span> 
+                    </div>
+                </i>
+              
                 </p>
+
             </div>
             <input className='bg-[#ccd6f6] p-2' type="text" placeholder='name' name='name' />
             <br />
