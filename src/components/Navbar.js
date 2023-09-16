@@ -3,7 +3,7 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import osp from '../assets/osp.pdf'
-
+import Image from '../assets/O.png'
 
 import { Link } from 'react-scroll'
 
@@ -16,8 +16,8 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#1c3d6d] text-gray-300'>
 
-        <div className='w-[400px] h-[10px] text-4xl text-[#d242ec] font-serif font-bold'>
-            Oscar Santos
+        <div className='w-[100px] h-[100px] text-4xl text-[#d242ec] font-serif font-bold'>
+            <img src={Image} alt="" />
         </div>
   
 
