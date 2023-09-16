@@ -12,21 +12,20 @@ const Contact = () => {
                 </p>
 
                 <p className='text-gray-300 py-4 text-2xl'>
-                    Submit the form below to send me an email or call to: 
+                    Submit the form below to send me an email or call to : 
                     
                 <i class="fa fa-phone">
                     <div style={{display: 'flex', alignItems:'center'}}>
                     <img src={Email} width='35px' alt="" />
-                        <span style={{paddingLeft: '15px'}}>
+                        <span style={{paddingLeft: '20px'}}>
                         oscar303data@gmail.com
                         </span> 
                     </div>
                 </i>
-
                 <i class="fa fa-phone">
                     <div style={{display: 'flex', alignItems:'center'}}>
                     <img src={Phone} width='35px' alt="" />
-                         <span style={{paddingLeft: '15px'}}>
+                         <span style={{paddingLeft: '20px'}}>
                             720-649-2594
                         </span> 
                     </div>
