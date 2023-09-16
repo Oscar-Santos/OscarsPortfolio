@@ -12,7 +12,7 @@ const Contact = () => {
                 </p>
 
                 <p className='text-gray-300 py-4 text-2xl'>
-                    Submit the form below to send me an email or call to : 
+                    
                     
                 <i class="fa fa-phone">
                     <div style={{display: 'flex', alignItems:'center'}}>
@@ -30,7 +30,8 @@ const Contact = () => {
                         </span> 
                     </div>
                 </i>
-              
+                <br />
+                Submit the form below with your name, email and a message: 
                 </p>
 
             </div>
@@ -42,7 +43,7 @@ const Contact = () => {
             </textarea>
             <br />
             <button className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-6 py-4 my-8 mx-auto flex items-center'>
-                Let's Collaborate
+                Submit
             </button>
 
         </form>
