@@ -43,7 +43,7 @@ export const data=[
     },
     {
         id:6,
-        name:"Batlleship Game",
+        name:"Battleship Game",
         image:Battleship,
         github:"https://github.com/Oscar-Santos/battleship",
         live:"",
