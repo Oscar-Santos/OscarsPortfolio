@@ -43,7 +43,7 @@ const Projects = () => {
             Code
           </button>
         </a>
-        {/* eslint-disable-next-line */}
+        {item.live && (
         <a href={item.live} target="_blank">
           <button
             className="text-center rounded-lg px-4 py-3 m-2
@@ -51,7 +51,8 @@ const Projects = () => {
           >
             Deployment
           </button>
-        </a>
+        </a>)
+}
       </div>
     </div>
   </div>
