@@ -79,7 +79,7 @@ function Contact() {
 						Contact
 					</p>
 
-					<p className="text-gray-300 py-4">Submit the form below with your name, email and a message: </p>
+					<p className="text-2xl text-gray-300 py-4">Submit the form below with your name, email and a message: </p>
 				</div>
 				<input
 					className="bg-[#ccd6f6]"

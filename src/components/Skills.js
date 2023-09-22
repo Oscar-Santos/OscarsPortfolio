@@ -183,7 +183,7 @@ function Skills() {
 					<p className="text-4xl font-bold inline border-b-4 border-pink-600">
 						Skills
 					</p>
-					<p className="py-4">
+					<p className="text-2xl py-4">
 						These are the technologies I'm proficient with:
 					</p>
 				</div>
