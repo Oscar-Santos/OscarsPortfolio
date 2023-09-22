@@ -4,13 +4,13 @@
 // import JavaScript from '../assets/javascript.png';
 // import ReactImg from '../assets/react.png';
 // import Node from '../assets/node.png';
-// import FireBase from '../assets/rails.png';
+import FireBase from '../assets/rails.png';
 // import GitHub from '../assets/github.png';
-// import Tailwind from '../assets/sql_2.png';
+import Tailwind from '../assets/sql_2.png';
 // import Mongo from '../assets/mongo.png';
-// import Openai from '../assets/openai_2.webp';
+import Openai from '../assets/openai_2.webp';
 // import Postman from '../assets/postman_10.png';
-// import Linux from '../assets/linux.png';
+import Linux from '../assets/linux.png';
 
 // const Skills = () => {
 //   return (
@@ -192,6 +192,38 @@ function Skills() {
 					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
 						<img
 							className="w-20 mx-auto"
+							src={JavaScript}
+							alt="JavaScript icon"
+						></img>
+						<p className="my-4">JavaScript</p>
+					</div>
+
+					                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={FireBase}  />
+                    <p className='my-4'>RUBY ON RAILS</p>
+                </div>
+					{/* ruby */}
+					<div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                   		<img className='w-20 mx-auto' src={Openai}  />
+                    	<p className='my-4'>OPENAI API</p>
+               		 </div>
+
+
+
+					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+						<img
+							className="w-20 mx-auto"
+							src={ReactImg}
+							alt="React icon"
+						></img>
+						<p className="my-4">React</p>
+					</div>
+
+
+					{/* rubyExample */}
+					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+						<img
+							className="w-20 mx-auto"
 							src={HTML}
 							alt="HTML icon"
 						></img>
@@ -204,22 +236,6 @@ function Skills() {
 							alt="CSS icon"
 						></img>
 						<p className="my-4">CSS</p>
-					</div>
-					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-						<img
-							className="w-20 mx-auto"
-							src={JavaScript}
-							alt="JavaScript icon"
-						></img>
-						<p className="my-4">JavaScript</p>
-					</div>
-					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-						<img
-							className="w-20 mx-auto"
-							src={ReactImg}
-							alt="React icon"
-						></img>
-						<p className="my-4">React</p>
 					</div>
 					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
 						<img
@@ -253,6 +269,16 @@ function Skills() {
 						></img>
 						<p className="my-4">MongoDB</p>
 					</div>
+
+				 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                   <img className='w-20 mx-auto' src={Tailwind} />
+                    <p className='my-4'>POSTGRESQL</p>
+                </div>
+
+					               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                   <img className='w-[4.3rem] mx-auto' src={Linux}  />
+                    <p className='my-4'>LINUX</p>
+                </div>
 				</div>
 			</div>
 		</div>

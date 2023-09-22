@@ -2,10 +2,7 @@ import React from 'react';
 import { data } from "../data/data.js";
 
 const Projects = () => {
-
-    // projects file
     const project = data;
-    //setProject(data);
   
   return (
     <div name='projects' className='w-full md:h-screen text-gray-300 bg-[#142f57]'>
