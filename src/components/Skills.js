@@ -195,7 +195,7 @@ function Skills() {
 							src={JavaScript}
 							alt="JavaScript icon"
 						></img>
-						<p className="my-4">JavaScript</p>
+						<p className="my-4">JAVASCRIPT</p>
 					</div>
 
 					                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
@@ -216,19 +216,19 @@ function Skills() {
 							src={ReactImg}
 							alt="React icon"
 						></img>
-						<p className="my-4">React</p>
+						<p className="my-4">REACT</p>
 					</div>
 
 
 					{/* rubyExample */}
-					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+					{/* <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
 						<img
 							className="w-20 mx-auto"
 							src={HTML}
 							alt="HTML icon"
 						></img>
 						<p className="my-4">HTML</p>
-					</div>
+					</div> */}
 					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
 						<img
 							className="w-20 mx-auto"
@@ -243,7 +243,7 @@ function Skills() {
 							src={Github}
 							alt="Github icon"
 						></img>
-						<p className="my-4">Github</p>
+						<p className="my-4">GITHUB</p>
 					</div>
 					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
 						<img
@@ -251,35 +251,35 @@ function Skills() {
 							src={Node}
 							alt="Node icon"
 						></img>
-						<p className="my-4">Node</p>
+						<p className="my-4">NODE</p>
 					</div>
-					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+					{/* <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
 						<img
 							className="w-20 mx-auto"
 							src={Express}
 							alt="Express icon"
 						></img>
 						<p className="my-4">Express</p>
-					</div>
-					<div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+					</div> */}
+					{/* <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
 						<img
 							className="w-20 mx-auto"
 							src={Mongo}
 							alt="Mongo icon"
 						></img>
 						<p className="my-4">MongoDB</p>
-					</div>
+					</div> */}
 
 				 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                    <img className='w-20 mx-auto' src={Tailwind} />
                     <p className='my-4'>POSTGRESQL</p>
                 </div>
 
-					               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+			{/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                    <img className='w-[4.3rem] mx-auto' src={Linux}  />
                     <p className='my-4'>LINUX</p>
-                </div>
-				</div>
+             </div> */}
+			</div>
 			</div>
 		</div>
 	);
