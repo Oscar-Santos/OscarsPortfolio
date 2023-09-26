@@ -5,7 +5,7 @@ function Contact() {
 	return (
 		<div
 			name="contact"
-			className="w-full h-screen bg-[#0a192f] flex justify-center items-center p-8 pt-[100px]"
+			className="w-full h-screen bg-[#0a0a0a] flex justify-center items-center p-8 pt-[100px]"
 		>
 			<form method="POST"
 				action="https://getform.io/f/00f63e9f-1505-4c0f-b389-97c0e6464773"
@@ -16,7 +16,7 @@ function Contact() {
 						Contact
 					</p>
 
-					<p className="text-2xl text-gray-300 py-4">Submit the form below with your name, email and a message: </p>
+					<p className="text-2xl text-gray-300 py-4">Submit the form below with your name, email and a message : </p>
 				</div>
 				<input
 					className="bg-[#ccd6f6]"

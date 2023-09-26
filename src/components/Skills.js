@@ -16,7 +16,7 @@ function Skills() {
 	return (
 		<div
 			name="skills"
-			className='w-full h-screen bg-[#0a192f] text-gray-300 px-4 pt-[120px]'
+			className='w-full h-screen bg-[#0a0a0a] text-gray-300 px-4 pt-[120px]'
 		>
 			{/* Container */}
 			<div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
@@ -25,7 +25,7 @@ function Skills() {
 						Skills
 					</p>
 					<p className="text-2xl py-4">
-						These are the technologies I'm proficient with:
+						These are the technologies I'm proficient with :
 					</p>
 				</div>
 
