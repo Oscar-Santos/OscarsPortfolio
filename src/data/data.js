@@ -2,7 +2,7 @@ import Chatbot from '../assets/projects/chatbot.png'
 import TaskTracker from '../assets/projects/task_tracker.png'
 import HistoryMaps from '../assets/projects/history_maps.png'
 import WeatherSweather from '../assets/projects/weather_sweather.png'
-import Battleship from '../assets/projects/battleship.png'
+import Ana from '../assets/projects/anahs.png'
 import Tic from '../assets/projects/tic.png'
 
 export const data=[
@@ -15,6 +15,13 @@ export const data=[
     },
     {
         id:2,
+        name:"Ana Rio's Hair Salon Site",
+        image:Ana,
+        github:"https://github.com/Oscar-Santos/hair-salon",
+        live:"https://hair-salon-green.vercel.app/",
+    },
+    {
+        id:3,
         name:"Tic Tac Toe Game",
         image:Tic,
         github:"https://github.com/Oscar-Santos/tic_tac_toe_game_javascript",
@@ -41,12 +48,6 @@ export const data=[
         github:"https://github.com/Oscar-Santos/weather_sweater",
         live:"",
     },
-    {
-        id:6,
-        name:"Battleship Game",
-        image:Battleship,
-        github:"https://github.com/Oscar-Santos/battleship",
-        live:"",
-    }
+
 
 ]

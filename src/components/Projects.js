@@ -11,7 +11,7 @@ const Projects = () => {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
             Projects
           </p>
-          <p className='text-2xl py-4'>Check out some of my recent projects :</p>
+          <p className='text-2xl py-4'>Check out some of my recent projects and work :</p>
         </div>
 
 {/* container for projects */}
