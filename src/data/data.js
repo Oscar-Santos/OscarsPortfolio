@@ -8,10 +8,10 @@ import Tic from '../assets/projects/tic.png'
 export const data=[
     {
         id:1,
-        name:"Virtual OpenAI Chatbot App",
+        name:"OpenAI Chatbot App",
         image:Chatbot,
-        github:"https://github.com/Oscar-Santos/Virtual_OpenAI_Chatbot",
-        live:"https://virtual-open-ai-chatbot-k4odgur73-oscar-santos.vercel.app/",
+        github:"https://github.com/Oscar-Santos/OpenAI_ChatBot/blob/main/README.md",
+        live:"https://open-ai-chat-bot-green.vercel.app/",
     },
     {
         id:2,
