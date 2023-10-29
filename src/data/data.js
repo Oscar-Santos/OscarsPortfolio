@@ -1,4 +1,4 @@
-import Chatbot from '../assets/projects/chatbot.png'
+import Chatbot from '../assets/projects/chatbot_2.png'
 import TaskTracker from '../assets/projects/task_tracker.png'
 import HistoryMaps from '../assets/projects/history_maps.png'
 import WeatherSweather from '../assets/projects/weather_sweather.png'
