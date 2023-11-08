@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
-import osp from '../assets/osp.pdf'
+import osp from '../assets/oscar_santos_resume.pdf'
 import Image from '../assets/O.png'
 
 import { Link } from 'react-scroll'
