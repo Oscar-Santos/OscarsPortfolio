@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+# OSCAR'S PORTFOLIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview 🟣
+Welcome to my portfolio site, showcasing my work as a software developer. This site was styled using Tailwind CSS and for the code i use Javascript and React. It contains 5 component pages: Home, About, Skills, Projects, and Contact. 
+Across these pages, you can view my latest projects built using technologies like Ruby, JavaScript, React, MongoDB, Node.js, OpenAi APIIntegrations, Google MAps API's.
 
-## Available Scripts
+My projects page contains 5 featured apps and websites I've created to demonstrate my development abilities. In addition to the main content, the site includes a navigation bar with links to my LinkedIn profile, GitHub profile, and Resume so you can view more of my background. The goal of this portfolio is to provide an overview of my programming skills and experience, as well as examples of my ability to create clean, functional web applications. 
 
-In the project directory, you can run:
+Please have a look around and get in touch via the contact page !!
 
-### `npm start`
+<img width="1280" alt="Screen Shot 2023-11-10 at 7 56 11 PM" src="https://github.com/Oscar-Santos/Oscars_Portfolio/assets/83252572/f9dc8f85-b126-4cd5-b2b1-194df703ef14">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1280" alt="Screen Shot 2023-11-10 at 7 56 37 PM" src="https://github.com/Oscar-Santos/Oscars_Portfolio/assets/83252572/1a2752f6-9d64-4d06-b23f-a0139f662357">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1280" alt="Screen Shot 2023-11-10 at 7 57 05 PM" src="https://github.com/Oscar-Santos/Oscars_Portfolio/assets/83252572/33524afb-b607-448c-bbb2-f3cc21dba418">
 
-### `npm test`
+<img width="1280" alt="Screen Shot 2023-11-10 at 7 57 36 PM" src="https://github.com/Oscar-Santos/Oscars_Portfolio/assets/83252572/da01838d-9e96-4613-952c-964edb959448">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1279" alt="Screen Shot 2023-11-10 at 7 57 57 PM" src="https://github.com/Oscar-Santos/Oscars_Portfolio/assets/83252572/153c9d32-0144-47ba-bf3f-79b69ce31a9f">
 
-### `npm run build`
+## Framework🟣
+<p>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Languages🟣
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES2021-yellow?logo=javascript" />
+  </br>
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" />
+  </br>
+  <img src="https://img.shields.io/badge/HTML-<VERSION>-<COLOR>?logo=html5" />
+  </br>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tools🟣
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-Integrated-brightgreen?logo=openai" /> 
+  </br>
+  <img src="https://img.shields.io/badge/Node.js-14.17.3-green?logo=node.js" /> 
+  </br>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flaste&logo=git&logoColor=white" />
+  </br>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flaste&logo=github&logoColor=white" />
+  </br>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Vercel Deployment Link🟣
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Vercel Link](https://oscars-portfolio.vercel.app/)
