@@ -2,7 +2,7 @@
 # OSCAR'S PORTFOLIO
 
 ## Overview 🟣
-Welcome to my portfolio site, showcasing my work as a software developer. This site was styled using Tailwind CSS and for the code i use Javascript and React. It contains 5 component pages: Home, About, Skills, Projects, and Contact. 
+Welcome to my portfolio site, showcasing my work as a software developer. This site was styled using Tailwind CSS and for the code I used Javascript and React. It contains 5 component pages: Home, About, Skills, Projects, and Contact. 
 Across these pages, you can view my latest projects built using technologies like Ruby, JavaScript, React, MongoDB, Node.js, OpenAi APIIntegrations, Google MAps API's.
 
 My projects page contains 5 featured apps and websites I've created to demonstrate my development abilities. In addition to the main content, the site includes a navigation bar with links to my LinkedIn profile, GitHub profile, and Resume so you can view more of my background. The goal of this portfolio is to provide an overview of my programming skills and experience, as well as examples of my ability to create clean, functional web applications. 
