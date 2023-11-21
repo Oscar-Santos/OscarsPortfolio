@@ -19,11 +19,6 @@ Please have a look around and get in touch via the contact page !!
 
 <img width="1279" alt="Screen Shot 2023-11-10 at 7 57 57 PM" src="https://github.com/Oscar-Santos/Oscars_Portfolio/assets/83252572/153c9d32-0144-47ba-bf3f-79b69ce31a9f">
 
-## Framework🟣
-<p>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-</p>
-
 ## Languages🟣
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES2021-yellow?logo=javascript" />
